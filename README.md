@@ -3,6 +3,7 @@
 [PDF](https://github.com/LluviaLi/Wheeled-Mobile-Robot-Trajectory/blob/d9a8927c8898519b3bdce3cdfe6cc16d603b4695/CDP_Rep_Li_Liu.pdf)
 
 ![Ackerman](https://github.com/LluviaLi/Wheeled-Mobile-Robot-Trajectory/blob/27767dd3dd62613dcfe34e2da2d5d0ebb43d1a0c/Fig.1.png)
+Ackerman configuration
 
 ### Abstract
 
